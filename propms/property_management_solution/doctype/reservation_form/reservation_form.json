@@ -283,7 +283,7 @@
  "index_web_pages_for_search": 1,
  "is_submittable": 1,
  "links": [],
- "modified": "2025-01-21 15:31:29.041530",
+ "modified": "2025-03-17 02:31:35.136951",
  "modified_by": "Administrator",
  "module": "Property Management Solution",
  "name": "Reservation form",
@@ -293,5 +293,6 @@
  "sort_field": "modified",
  "sort_order": "DESC",
  "states": [],
- "track_seen": 1
+ "track_seen": 1,
+ "translated_doctype": 1
 }
