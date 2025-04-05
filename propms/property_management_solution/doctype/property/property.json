@@ -327,12 +327,12 @@
    "label": "District"
   },
   {
-   "fetch_from": "parent_property.company",
+   "fetch_from": "parent_property.developer",
    "fieldname": "developer",
    "fieldtype": "Link",
    "label": "Developer",
    "options": "Developer",
-   "reqd": 1
+   "reqd": 0
   },
   {
    "fieldname": "building_number",

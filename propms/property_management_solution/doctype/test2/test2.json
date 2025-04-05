@@ -1,30 +1,24 @@
 {
  "actions": [],
  "allow_rename": 1,
- "autoname": "field:name1",
- "creation": "2025-01-11 15:32:05.190940",
+ "creation": "2025-04-05 21:17:13.220659",
  "doctype": "DocType",
  "engine": "InnoDB",
  "field_order": [
-  "name1"
+  "section_break_uyug"
  ],
  "fields": [
   {
-   "fieldname": "name1",
-   "fieldtype": "Data",
-   "in_list_view": 1,
-   "label": "Name",
-   "reqd": 0,
-   "unique": 1
+   "fieldname": "section_break_uyug",
+   "fieldtype": "Section Break"
   }
  ],
  "index_web_pages_for_search": 1,
  "links": [],
- "modified": "2025-01-18 21:11:31.232198",
+ "modified": "2025-04-05 21:17:13.220659",
  "modified_by": "Administrator",
  "module": "Property Management Solution",
- "name": "Developer",
- "naming_rule": "By fieldname",
+ "name": "test2",
  "owner": "Administrator",
  "permissions": [
   {
@@ -40,9 +34,7 @@
    "write": 1
   }
  ],
- "show_title_field_in_link": 1,
  "sort_field": "modified",
  "sort_order": "DESC",
- "states": [],
- "title_field": "name1"
+ "states": []
 }
