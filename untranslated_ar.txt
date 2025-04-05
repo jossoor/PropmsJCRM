@@ -1,0 +1,515 @@
+ ID No.
+ Shift
+6 months
+ABSENT
+A\C
+Absent
+Address Name
+Adendum to Previous Lease
+Advance RECD in 2019
+Agent
+Agreement End Date
+Agreement Start Date
+Agreement Status
+All Property
+Amenity Name
+Annually
+Another Phone No.
+Apartment No
+Apartment No.
+Apartment Status
+Approve
+Approved
+Area
+Area Name
+Area(sqm)
+Areas for Checklist Checkup.
+Asset
+Attach National ID
+Attendance Details
+Available
+BHK
+Balcony
+Batch No
+Bathroom
+Bedroom
+Bi-Monthly
+Bill
+Booked
+Building Number
+Building number 
+Built-up Area
+Builtup Area
+Builtup area
+Builtup area (m²)
+Buyer Commission
+By Landlord
+By Lessee
+Cannot select charge type as 'On Previous Row Amount' or 'On Previous Row Total' for first row
+Carper Area
+Carpet Area
+Carpet area
+Cash
+Cash or Installments
+Cashier Closing
+Charge Rate
+Charge basis
+Checklist Checkup Area
+Checklist Checkup Area Task
+Checklist Task
+Checkup Date
+Client Data
+Client Name
+Closed before starting long process!
+Color Code
+Commercial
+Common Bathroom
+Common bathroom
+Consultant
+Contact Number
+Cost Center
+Cover Document
+Create a new Customer
+Currency Code
+Current Meter Reading
+Custom Error Log
+Customer
+Customer POS Id
+DAY OFF
+DESCRIPTION
+Daily Checklist
+Daily Checklist Detail
+Damage Charge Item
+Date to invoice
+Datetime taken
+Day off
+Days to invoice in advance
+Deactivation Date
+Deal Is Done
+Default warehouse is required for selected item
+Delete permanently?
+Developer
+Discount amount cannot be greater than 100%
+District
+Do not create invoice
+Document Reminders
+Documentation
+Done Deal
+Door
+Door Type
+Duplicate of
+East
+Effective Date
+End Date 
+Enter value must be positive
+Existing stock quantity of item ${item.item} is ${sle_qty} not enough
+Exit
+Exit Details
+Exit Type
+Expiration Date
+Expiry
+Extand
+Exterior Color
+Facing
+Final Price
+Final Security Received Payment
+Final Security Returned Reference
+Finishing
+Fit out Period
+Fixed Amount
+Floor Maintenance Supervisor
+Floor Number
+Floor number
+Flooring
+Flooring Type
+Floors
+For Cancellation
+Frappe School
+Frappe Support
+From Month
+Fully Finished
+Fully Furnished
+Furishing
+Furnished
+Furnishing
+GUARD NAME
+Garage
+Generate Pending Invoice
+Group Maintenance Job Items
+Guard EmpID
+Guard Name
+Guard Shift
+Guard Shift Location
+How did you hear about the project?
+ID No.
+IDENTIFICATION
+Information about all properties in the system
+Initial Meter Reading
+Initial Reading
+Inside Color
+Installation Date
+Installments
+Installments Frequency
+Insurance
+Insurance Provider
+Insurance Type
+Inventory Unit
+Invoice Amount
+Invoice Customer
+Invoice Item Group
+Invoice No.
+Invoice Number
+Invoice Schedule
+Invoice Start Date
+Invoice number
+Invoiced
+Is Group
+Is POS
+Is Property Unit?
+Issue Materials Billed
+Issue Materials Detail
+Issue photo
+Item
+Item Group
+Job Card
+Job or Profession
+Key Number
+Key Set
+Key Set Detail
+Key sets in custody.
+Kitchen appliances
+Land Area
+Land Area (m)
+Late payment interest percentage
+Latitude
+Lease
+Lease Basic info
+Lease Customer
+Lease Date
+Lease Dates
+Lease Details
+Lease End
+Lease Information
+Lease Invoice Schedule
+Lease Item
+Lease Item Name
+Lease Item Table
+Lease No.
+Lease Parties
+Lease Report
+Lease Start
+Lease Status
+Lease pertaining to the properties.
+Leased
+LocalStorage is full , did not save
+LocalStorage is full, did not save
+Location Name
+Location No.
+Lock Type
+Log of Scheduler Errors
+Log out
+Longitude
+MORE INFORMATION
+Maids Room
+Maintenable
+Maintenance
+Maintenance Item Group
+Maintenance Job in-charge
+Make Invoice Schedule
+Make Invoice Schedule for all Lease
+Managed for Customer
+Managed for customer
+Master Bedroom
+Master bedroom
+Master data syncing, it might take some time
+Material Request
+Meter
+Meter Does Not Exist For This Type
+Meter Number
+Meter Reading
+Meter Reading Detail
+Meter Type
+Meter database
+MultiSelect Item Group
+My Settings
+National ID
+New Cart
+New Sales Invoice
+New Target
+Night
+No Of Parking
+No of parking
+No. of Days
+No. of Keys
+No. of Tool Items
+North
+North-East
+North-West
+Not Materialized
+Not items found
+Not required
+Notes
+Notice Period
+Number Of Rooms
+Off Lease in 3 Months
+Off lease in 3 months
+Offline
+Old Parent
+On Lease
+On Sale
+On behalf of lessee by Landlord
+Online
+Other lease details
+Other remarks
+Others
+Out
+Outsource Contact
+Outsourcing Attendance
+Outsourcing Attendance Details
+Outsourcing Category
+Outsourcing Category Name
+Outsourcing Category definition.
+Outsourcing Shift
+Outsourcing Shift Location
+Owner Type
+POS Customer
+POS Profile
+POSITION
+PRESENT
+Paid By
+Paint
+Parent Unit
+Parent property
+Pay
+Payment Mode is not configured. Please check, whether account has been set on Mode of Payments or on POS Profile.
+Payment Type
+Pending Signed Agreement
+Percentage of Witholding tax applicable to this item
+Person Name
+Photo
+Please Setup Default Maintenance Tax Template in <a href='{0}'>{1}</a>
+Please select Apply Discount On
+Please select a Customer in Lease {0}
+Please select customer
+Point of Sale
+Policy Number
+Potential
+Pre-mature
+Premature expiry date
+Premium Price
+Present
+Previous Meter Reading
+Previous Reading Date
+Price
+Price 
+Price List not found or disabled
+Price Per Meter
+Price per meter
+Price per month/day
+Private Garden
+Private pool
+Proforma Invoice raised
+Project Builtup Area
+Project Category
+Project City
+Project Details
+Project District
+Project Facility
+Property Amenity
+Property Amenity definition.
+Property Analytics
+Property Documents
+Property Management
+Property Management Settings
+Property Management Solution
+Property Manager
+Property Masters
+Property Meter Reading
+Property Multiselect
+Property Number
+Property Owner
+Property Settings
+Property Status
+Property Unit
+Property User
+Property database.
+Property name
+Property that needs to be managed.
+Property type
+Qty
+Quantity
+REMARKS
+Rate
+Reading Date
+Reading Difference
+Reason for key taken
+Reason for tool item taken
+Received and WIP
+Received in part
+Recovered for rent
+Recovered for repairs
+Register all meters here.
+Reject
+Remarks
+Remarks ( If absent )
+Removed
+Renewal to Previous Lease
+Rent
+Rent Amount
+Rent Currency
+Rent Frequency
+Rental
+Report an Issue
+Requested
+Reservation
+Reservation Details
+Reservation Details Table
+Reservation Form
+Reservation Form 
+Reservations
+Reserve
+Reserved
+Reserved By
+Residential
+Return Date and Time
+Return in part
+Returned
+S1
+S2
+S3
+Sale
+Sale?
+Sales Invoice
+Sales Order
+Sales Order Number
+Sales Person
+Sales invoice ${r.doc.name} created succesfully
+Schedule Start Date
+Screen Door attached
+Search Item
+Security
+Security Amount
+Security Attendance
+Security Attendance Details
+Security Attendance Report
+Security Deposit
+Security Deposit Amount
+Security Deposit Currency
+Security Deposit Details
+Security Deposit Details definition.
+Security Deposit Item
+Security Deposit Payment Type
+Security Status
+Security deposit
+Select Batch No
+Select items to save the invoice
+Select or add new customer
+Self Consumption
+Self Consumption Customer
+Seller Commission
+Semi Finished
+Semi Furnished
+Serial no item cannot be a fraction
+Service Charge Amount
+Service Charge Currency
+Service Charge Frequency
+Service Type
+Set Name
+Shared Gym
+Shared Spa
+Shared pool
+Shelf No.
+Shif for security guards.
+Shift
+Shift Date
+Shift Location
+Shift Name
+Signed agreement received
+Smoking
+Social status
+Sold
+South
+South-East
+South-West
+Spik n Span
+Staff
+Staff Type
+Stamp Duty Paid by Tenant
+Stamp Duty Status
+Stamp duty paid by tenant
+Start Date of Installment
+Status Active
+Status active
+Stock Qty
+Storage Area
+Storage area
+Submit Maintenance Invoice
+Submitted orders can not be deleted
+Sync Master Data
+Sync Offline Invoices
+TOTAL
+Taken by
+Task Name
+Tax
+Team Leader Target
+Termination
+Testing
+The materials required has items and so the job card cannot be closed. Please confirm billing status fo the materials required.
+This is to show status of every lease by type of property
+Title deed number
+To Month
+Toggle Full Width
+Toggle Theme
+Tool Item
+Tool Item Number
+Tool Item Record
+Tool Item Set
+Tool Item Sets in custody.
+Total Amount Paid
+Total Facilities Price
+Total Facilties Price 
+Total Number of Installment
+Total Price
+Total Unit Price (Including Garage)
+UNIT CHARACTERISTICS
+UNIT DETAILS
+UOM
+Unfinished
+Unfurnished
+Unit
+Unit Assets
+Unit Data
+Unit Location
+Unit Meters
+Unit Number
+Unit Owner
+Unit Price
+Unit Price 
+Unit Type
+Unit Type definition.
+Unit number
+Units Multiselect
+User Forum
+Vacating
+Viva Security
+Viva Staff
+WTax paid by
+Waiting for Approval
+West
+Withholding Tax Summary
+Witholding Tax
+Witness 1
+Witness 2
+Work Done
+You are in offline mode. You will not be able to reload until you have network.
+ZIP Code
+attach
+from
+model No
+naming_series
+new repo
+price per meter
+price per month/day
+repo
+tarr
+{0} is mandatory. Maybe Currency Exchange record is not created for {1} to {2}
